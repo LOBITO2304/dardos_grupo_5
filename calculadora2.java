@@ -4,7 +4,7 @@ public class calculadora2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println(
-                "Esta calculadora únicamente responde operaciones básicas,\n dentro de las opciones: Suma, Resta, Multiplicación, División, Exponenciación y Módulo.");
+                "Esta calculadora únicamente responde operaciones básicas\ndentro de las opciones: Suma, Resta, Multiplicación, División, Exponenciación y Módulo.");
         System.out.println("Introduce el primer número: ");
         int num1 = sc.nextInt();
         System.out.println("Introduce el segundo número: ");
